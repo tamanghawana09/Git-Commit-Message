@@ -1,12 +1,12 @@
 # Learn how to write better Git Commit Message
 
-<h3>For enhanced optimization and smoother team collaboration, maintain concise and informative commit history, offering clear visibility into the code's evolution and enabling streamlined debugging, tracking, and optimization.<h3>
+<h3>For enhanced optimization and smoother team collaboration, maintain concise and informative commit history, offering clear visibility into the code's evolution and enabling streamlined debugging, tracking, and optimization.</h3>
 
 <hr>
 
 | Git Commit | Description                                                                                                                                                    |
 |---------------------------|-------------------------------------------------------------------------------|
-|<b> git commit -m "feat: message" </b>| <b>feat - Introducing New Features</b> <br> When introducing impactful new functionality, use 'feat' commit type. It helps team members identify and track significant changes easily.                                 |
+|<b> git commit -m "feat: message" </b>  |<b> feat - Introducing New Features </b> <br> When introducing impactful new functionality, use 'feat' commit type. It helps team members identify and track significant changes easily.                                 |
 |<b> git commit -m "fix: message" </b> | <b>fix - Fixing Bugs</b> <br> Utilize 'fix' commit type to highlight that the commit resolves an issue or a problem in the codebase when addressing the bugs.                                |
 |<b> git commit -m "chore: message" </b> | <b>chore - Miscellaneous Changes</b> <br> For routine tasks and updates such as dependency modifications or general maintenance, employ the 'chore' commit type to ensure clarity and professionalism in version control history                                |
 |<b> git commit -m "refactor: message" </b> | <b>refactor - Code Refactoring</b> <br> When you improve the structure or readability of the code without adding features or fixing bugs, use 'refactor' commit type.                                |
