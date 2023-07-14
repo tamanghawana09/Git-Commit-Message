@@ -18,7 +18,9 @@
 |<b> git commit -m "build: message" </b> | <b>build - Build System Updates</b> <br> For changes impacting the build system or external dependencies, such as package updates or build script modifications, use 'build' commit type.                     |
 |<b> git commit -m "revert: message" </b> | <b>revert - Reverting Changes</b> <br> Mistakes happen! If you need to undo a previous commit, use 'revert' commit type to roll back changes and restore the previous state.                     |
 |<b> git commit -m "merge: message" </b> | <b>merge - Merging Branch</b> <br> Clean code!, If you want to incorporate feature branch to the main branch                 |
-
+|<b> git add "file - name" </b> | <b>add - "file -name"</b> <br> To add a specific file to Git, use the command: git add "file-name". Replace "file-name" with the actual name of the file you want to add               |
+|<b> git add . </b> | <b> add . </b> <br> To add all the files to Git, use the command: 'git add . '   |
+|<b> git push </b> | <b> push - upload commits </b> <br> If you want to upload local repository commits to a remote repository, synchronizing changes by transferring them to the corresponding branch for collaboration and updates.  |
 
 <hr>
 <h3>Code with peace✌️</h3>
